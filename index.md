@@ -1,7 +1,3 @@
----
-permalink: /embed-js/
----
-
 <!DOCTYPE html>
 <meta charset=utf-8>
 <title> Un momento por favor... </title>
